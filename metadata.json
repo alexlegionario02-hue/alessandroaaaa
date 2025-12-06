@@ -1,0 +1,7 @@
+{
+  "name": "CardScanner AI",
+  "description": "Real-time TCG card scanner and price estimator using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
